@@ -1,0 +1,37 @@
+ Volume in drive C is OS
+ Volume Serial Number is C837-D544
+
+ Directory of C:\Users\ictoa\CORE Projects\PitDisplay\images
+
+03/12/2022  03:47 PM    <DIR>          .
+03/12/2022  03:47 PM    <DIR>          ..
+03/12/2022  03:00 PM            32,786 1stChoiceHeatingCooling.jpg
+12/07/2021  03:32 PM            20,208 AriesIndustriesInc.jpg
+03/12/2022  03:00 PM            67,282 CarrollUniversity.jpg
+12/07/2021  03:32 PM           702,978 DaviesOrthodontics.jpg
+03/12/2022  03:00 PM            31,061 Dematic.jpg
+03/12/2022  03:00 PM            59,573 EducatorCreditUnion.jpg
+03/12/2022  03:00 PM           114,145 Fastenal.jpg
+03/12/2022  03:00 PM            63,818 GEHealthcare.jpg
+03/12/2022  03:36 PM            33,406 Generac.png
+03/12/2022  03:47 PM                 0 LogoList.txt
+03/12/2022  03:00 PM            81,534 MilesDataTechnology.jpg
+03/12/2022  03:00 PM            20,387 MKTacticalLeadership.jpg
+03/12/2022  03:00 PM            16,553 MSOE.jpg
+03/12/2022  03:00 PM             7,214 PHMOrthodontics.jpg
+03/12/2022  03:00 PM            55,010 Powermation.jpg
+03/12/2022  03:00 PM           271,274 RealTimeAutomation.jpg
+03/12/2022  03:00 PM            33,487 Rockwell.jpg
+03/12/2022  03:00 PM            22,698 s2f-logo.jpg
+03/01/2022  06:23 PM            32,087 SCORE.jpg
+03/12/2022  03:39 PM           118,253 SDW.png
+03/12/2022  03:00 PM           206,313 SMC.jpg
+03/12/2022  03:00 PM            10,792 SpeedyMetals.jpg
+03/12/2022  03:00 PM             8,487 TraceAMatic.jpg
+03/12/2022  03:00 PM            85,262 UDC.jpg
+03/05/2022  11:42 AM           108,419 UniversalTool.JPG
+03/12/2022  03:00 PM             5,614 WaukeshaCFR.jpg
+12/07/2021  03:32 PM           171,826 WaukeshaStateBank.jpg
+03/12/2022  03:00 PM            23,378 ZeroZone.jpg
+              28 File(s)      2,403,845 bytes
+               2 Dir(s)  67,323,736,064 bytes free
